@@ -1,0 +1,10 @@
+Moskov Izran 5
+StPiter CumInogorsk 6
+StPiter Moskov 3
+Izran CumInogorsk 1
+Izran Moskov 2
+CumInogorsk StPiter 5
+Moskov StPiter 9
+CumInogorsk Izran 15
+Moskov CumInogorsk 3
+CumInogorsk Moskov 1
